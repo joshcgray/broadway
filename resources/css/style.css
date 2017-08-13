@@ -32,12 +32,10 @@ p{
   color: white;
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
-#footer p{
+nav{
   text-align: left;
   text-size: 11px;
   background-color:dimgray;
   color: white;
-}
-#footer span{
-  display: inline-block;
+  display: block;
 }
